@@ -22,7 +22,7 @@ function App() {
         <AdminPanel reservations={reservations} />
       </main>
       <footer>
-        <p>TuristaReserve PH · QR-based visitor control MVP</p>
+        <p>TuristaReserve PH · QR-based reservation system</p>
       </footer>
     </>
   );
